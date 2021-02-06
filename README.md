@@ -1,2 +1,1 @@
-# formulario
-projeto de um formulário de cadastro em HTML5/CSS
+<h1 align="center">Cadastro de DEVs</h1>
