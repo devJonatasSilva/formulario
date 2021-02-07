@@ -7,7 +7,12 @@
    &nbsp;&nbsp;&nbsp;&nbsp; O objetivo desta aplicação é exclusivamente aplicar o aprendizado.
 </P>
 
-<img src="https://img.shields.io/static/v1?label=Autor&message=JhonySmithSilva&color=7159c1&style=for-the-badge"/>
+<div>
+   <img src="https://img.shields.io/github/issues/JhonySmithSilva/formulario"> &nbsp  
+   <img src="https://img.shields.io/github/forks/JhonySmithSilva/formulario"> &nbsp
+   <img src="https://img.shields.io/github/stars/JhonySmithSilva/formulario"> &nbsp
+   <img src="https://img.shields.io/github/license/JhonySmithSilva/formulario"> &nbsp   
+</div>
 
 <h2>conteudo</h2>
 <ul align="left">
