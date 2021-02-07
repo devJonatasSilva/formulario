@@ -7,7 +7,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp; O objetivo desta aplicação é exclusivamente aplicar o aprendizado.
 </P>
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Autor&message=JhonySmithSilva&color=7159c1&style=for-the-badge"/>
 
 <h2>conteudo</h2>
 <ul align="left">
@@ -21,7 +21,7 @@
 </ul>
 
 <h2>Status</h2>
-<p>:heavy_check_mark: concluido</p>
+<p>:construction: Em Construção</p>
 
 <h2>funcionalidades</h2>
 <ul>
