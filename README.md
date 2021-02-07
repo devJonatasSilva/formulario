@@ -1,6 +1,6 @@
 <h1 align="center" >Cadastro de DEVs</h1>
 
-<img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/print_da_pagina.png?raw=true">
+<img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/print_da_pagina.png?raw=true" width="500" reight="900">
 
 <h2>descrição</h2>
 <P>
@@ -37,8 +37,10 @@
 </ul>
 
 <h2>Tecnologias</h2>
+<div display: inline-block; margin-left: 15px;>
 <img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/CSS3.png" width="100" height="100">
 <img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/html5.png" width="100" height="100">
+</div>
 
 <h2>Requesitos</h2>
 <h2>Contribuições</h2>
