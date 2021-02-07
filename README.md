@@ -37,7 +37,8 @@
 </ul>
 
 <h2>Tecnologias</h2>
-<img src="
+<img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/CSS3.png" width="100" height="100">
+<img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/html5.png" width="100" height="100">
 
 <h2>Requesitos</h2>
 <h2>Contribuições</h2>
