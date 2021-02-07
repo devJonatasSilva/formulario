@@ -37,7 +37,7 @@
 </ul>
 
 <h2>Tecnologias</h2>
-<div display: inline-block; margin-left: 15px;>
+<div display: inline-block; margin-left: 10px;>
 <img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/CSS3.png" width="100" height="100">
 <img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/html5.png" width="100" height="100">
 </div>
