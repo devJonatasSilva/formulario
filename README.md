@@ -30,5 +30,11 @@
 
 <h2>funcionalidades</h2>
 <ul>
-<li> formulario de cadastro</li>
+<li> :heavy_check_mark: formulario de cadastro</li>
+<li> busca de usuário</li>
 </ul>
+
+<h2>Tecnologias</h2>
+<h2>Requesitos</h2>
+<h2>Contribuições</h2>
+<h2>Sobre o Autor</h2>
