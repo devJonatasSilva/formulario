@@ -28,7 +28,7 @@
 </ul>
 
 <h2>Status</h2>
-<p>:construction: Em Construção</p>
+<p>:construction: Em Construção :construction:</p>
 
 <h2>funcionalidades</h2>
 <ul>
@@ -37,6 +37,8 @@
 </ul>
 
 <h2>Tecnologias</h2>
+<img src="
+
 <h2>Requesitos</h2>
 <h2>Contribuições</h2>
 <h2>Sobre o Autor</h2>
