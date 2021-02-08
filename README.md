@@ -56,10 +56,11 @@
 
 
 <h2>Contribuições</h2>
-<h2>Sobre o Autor</h2>
-<img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/fotoPerfil.jpg" width="100" height="120">
-   <h4>&nbsp&nbsp&nbsp&nbsp Jonatas Silva,</h4>
+<h2>Sobre o Autor</h2>   
+   <img src="https://github.com/JhonySmithSilva/formulario/blob/main/imagens/fotoPerfil.jpg" width="100" height="120">
+   <h4>&nbsp&nbsp&nbsp&nbsp Jonatas Silva,</h4>  
       <p>é um amante da programação,tentando absorver o maximo de conhecimento possivel<br>
       atualmente participando do curso de Analise e Desenvolvimento de Sistemas pela faculdade ELO<br>
       </p>
+   
 
